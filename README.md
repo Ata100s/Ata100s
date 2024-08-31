@@ -26,9 +26,4 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/ata9991) 
 
-<style>
-  .body{
-    background-color: white;
-  }
-</style>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
